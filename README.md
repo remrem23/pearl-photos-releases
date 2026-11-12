@@ -31,7 +31,7 @@ Found a bug? In Pearl, press **Report a problem** at the top of the window → *
 
 ## Privacy
 
-Pearl Photos works offline. It has no account and no telemetry; your photos, file names and logs never leave your computer unless you send a report yourself.
+Pearl Photos goes online only to check for a new version, and only if you allowed it — it asks GitHub for the latest version number and sends nothing about you. It has no account and no telemetry; your photos, file names and logs never leave your computer unless you send a report yourself.
 
 ---
 
@@ -68,4 +68,4 @@ Pearl Photos works offline. It has no account and no telemetry; your photos, fil
 
 ## Приватность
 
-Pearl Photos работает без интернета. Нет аккаунта и телеметрии; ваши фото, имена файлов и журналы не покидают компьютер, если вы сами не отправите отчёт.
+Pearl Photos выходит в интернет только для проверки новой версии, и только если вы это разрешили: узнаёт у GitHub номер последней версии и ничего о вас не отправляет. Нет аккаунта и телеметрии; ваши фото, имена файлов и журналы не покидают компьютер, если вы сами не отправите отчёт.
