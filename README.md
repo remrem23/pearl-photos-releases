@@ -50,6 +50,10 @@ For iPhone videos (HEVC), Windows needs the free **HEVC Video Extensions** from 
 
 No account, no telemetry, no cloud. Pearl goes online only to check for a new version, and only if you allowed it — it asks GitHub for the latest version number and sends nothing about you. Your photos, file names and logs never leave your computer unless you send a report yourself.
 
+## Support the author
+
+Pearl has no ads and no tracking. If it helps you, you can **[support the author on Ko-fi ☕](https://ko-fi.com/remrem23)** — [more about support](DONATE.md).
+
 ## Found a bug?
 
 In Pearl, press **Report a problem** at the top of the window → **Send to the developer** → drag the report file into **[@PearlPhotosBot](https://t.me/PearlPhotosBot)** on Telegram. Pearl never sends anything by itself — you send the file.
@@ -107,6 +111,10 @@ Pearl решает именно это:
 ## Приватность
 
 Нет аккаунта, телеметрии и облака. Pearl выходит в интернет только для проверки новой версии, и только если вы это разрешили: узнаёт у GitHub номер последней версии и ничего о вас не отправляет. Ваши фото, имена файлов и журналы не покидают компьютер, если вы сами не отправите отчёт.
+
+## Поддержать автора
+
+В Pearl нет рекламы и слежки. Если программа вам помогает, можно **[поддержать автора на Ko-fi ☕](https://ko-fi.com/remrem23)** — [подробнее](DONATE.md#поддержать-pearl-photos).
 
 ## Нашли ошибку?
 
