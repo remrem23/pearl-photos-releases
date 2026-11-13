@@ -19,7 +19,7 @@ Pearl fixes exactly that:
 | Windows shows only part of the iPhone, and you can't tell why. | Pearl **tells you what may be missing, why, and what to do** — iCloud-only photos, "Optimize storage", a phone that listed only part of its folders, the wrong transfer setting. |
 | You don't know if everything came over. | Pearl **compares its count with the iPhone's** and shows how it counted. |
 | A Live Photo becomes two files. | A Live Photo is **one photo** in Pearl, and its motion plays. |
-| The Photos app crawls on tens of thousands of pictures. | Pearl is **built and tested for 100,000-photo libraries**: the grid shows up at once, while Pearl is still reading the folder. |
+| The Photos app crawls on tens of thousands of pictures. | Pearl is **built and tested for 100,000-photo libraries**: the grid shows up at once, while Pearl is still reading the folder, and the date scrubber moves through years without freezing. |
 | The same pictures sit in five folders and in twenty near-identical shots. | **Duplicates** finds exact copies and explains which one to keep. **Similar photos** groups bursts and copies of the same shot — you pick the keepers, nothing is chosen for you. |
 | Old family videos on DVDs and in AVI/MPG don't play. | A DVD folder (`VIDEO_TS`) plays **as one movie**; old AVI and MPG files play too. |
 | One dead drive and the photos are gone. | **Backups** copy your photos and videos to another drive, a USB disk or a network folder, and keep adding the new ones. The copy opens in Explorer, even without Pearl. |
@@ -32,7 +32,7 @@ Pearl fixes exactly that:
 - **Search** by file name and camera, in any language. **Favorites**, **albums**, filters.
 - **Trash** — nothing is deleted for good until you say so, and the last clean-up can be undone.
 - **Library health**: catalog backups, restore, and a clear report if something goes wrong.
-- **Updates** inside the app, only if you allow it.
+- **Updates** inside the app, only if you allow it — with Cancel, the time left, and a download that resumes where it stopped.
 - English and Russian, light and dark theme.
 
 **Coming later:** people (faces) and places (map).
@@ -81,7 +81,7 @@ Pearl решает именно это:
 | Windows видит только часть iPhone, и непонятно почему. | Pearl **объясняет, чего может не хватать, почему и что сделать**: снимки только в iCloud, «Оптимизация хранилища», телефон показал список не полностью, не та настройка переноса. |
 | Непонятно, всё ли перенеслось. | Pearl **сверяет своё число с числом на iPhone** и показывает, как считал. |
 | Live Photo превращается в два файла. | В Pearl Live Photo — **один снимок**, и его движение воспроизводится. |
-| «Фотографии» тормозят на десятках тысяч снимков. | Pearl **сделан и проверен на медиатеках в 100 000 фото**: сетка видна сразу, пока Pearl ещё читает папку. |
+| «Фотографии» тормозят на десятках тысяч снимков. | Pearl **сделан и проверен на медиатеках в 100 000 фото**: сетка видна сразу, пока Pearl ещё читает папку, а ползунок дат листает годы без зависаний. |
 | Одни и те же фото лежат в пяти папках, а похожих кадров — двадцать. | **Дубликаты** находят точные копии и объясняют, какую оставить. **Похожие снимки** собирают серии и копии одного кадра — что оставить, решаете вы, заранее ничего не отмечено. |
 | Старые семейные видео на DVD, в AVI и MPG не открываются. | Папка DVD (`VIDEO_TS`) играет **одним фильмом**, старые AVI и MPG тоже открываются. |
 | Сломался один диск — и фото пропали. | **Резервные копии** переносят фото и видео на другой диск, USB-диск или в сетевую папку и сами докопируют новое. Копия открывается в Проводнике и без Pearl. |
@@ -94,7 +94,7 @@ Pearl решает именно это:
 - **Поиск** по имени файла и камере на любом языке. **Избранное**, **альбомы**, фильтры.
 - **Корзина** — ничего не удаляется навсегда без вашего решения, последнюю уборку можно отменить.
 - **Состояние медиатеки**: копии каталога, восстановление и понятный отчёт, если что-то пошло не так.
-- **Обновления** внутри программы, только с вашего разрешения.
+- **Обновления** внутри программы, только с вашего разрешения: с отменой, временем до конца и докачкой с того же места.
 - Русский и английский, светлая и тёмная тема.
 
 **Позже:** люди (лица) и места (карта).
